@@ -1,2 +1,2 @@
 # estudo-db
-Repositório de exercícios de banco de dados.
+Repositório destinado para os exercícios de bando de dados.
