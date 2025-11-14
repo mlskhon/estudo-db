@@ -1,2 +1,2 @@
 # estudo-db
-Repositório destinado para os exercícios de bando de dados.
+Repositório destinado para os exercícios de bando de dados (mySQL).
