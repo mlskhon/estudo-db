@@ -144,7 +144,7 @@ AND paginas > 100;
 +-------------+------+------+
 
 /* Syntax is the same for SQL Server and mySQL
- exemple 
+ exemple: 
  
 SELECT AUTOR, SEXO, UF
 FROM LIVROS
